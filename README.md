@@ -1,7 +1,8 @@
 # FBP-FG-ex008-DataBindingMVVM2
 Data Binding with MVVM &amp; XAML
 
-Little app using data binding & Model View ViewModel
+Little app using data binding & Model View ViewModel 
+<br/>
 User can create a task & delete it by tilting left
 
 ![Alt text](001.png)
